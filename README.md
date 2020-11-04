@@ -1,2 +1,2 @@
 # Games
-Upload code of any game that you made on your own 
+Upload code of any game that you made on your own in any language 
